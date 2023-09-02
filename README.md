@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @overall-bug-1309
 - 👀 I’m interested in QA Automation
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and postman
 - 💞️ I’m looking to collaborate on a Python automation project
 - 📫 How to reach me at my email vkhandagale21@gmail.com
 
